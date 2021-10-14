@@ -3,7 +3,7 @@
     <fullName>Shopify_Id__c</fullName>
     <externalId>true</externalId>
     <label>Shopify Id</label>
-    <length>255</length>
+    <length>100</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
